@@ -1,7 +1,11 @@
+# 💫 About Me:
+- 💻 I'm pursuing Computer Science and Engineering at St. Joseph's College of Engineering and Technology, Palai.<br>
+- 🤖 I'm passionate about programming, problem solving, microcontrollers, designing, and innovative project.<br>
+- 📚 I’m currently learning Data Structures using C, Java, <br>
+- 📫 How to reach me: abhinavomanakuttan<br><br>
 
 
-<h1 align="center">Hi 👋, I'm Abhinav Omanakuttan</h1>
-<h3 align="center">Ai and Data science @sjcetpalai</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavomanakuttan&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavomanakuttan" /> </p>
 
