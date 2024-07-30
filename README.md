@@ -2,16 +2,12 @@
 - 💻 I'm pursuing Computer Science and Engineering at St. Joseph's College of Engineering and Technology, Palai.<br>
 - 🤖 I'm passionate about programming, problem solving, microcontrollers, designing, and innovative project.<br>
 - 📚 I’m currently learning Data Structures using C, Java, <br>
-- 📫 How to reach me: abhinavomanakuttan<br><br>
-
+- 📫 How to reach me **abhinavomanakuttan740@gmail.com**
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavomanakuttan&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavomanakuttan" /> </p>
 
-
-
-- 📫 How to reach me **abhinavomanakuttan740@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_abhi_n_a_v__/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abhinav-omanakuttan-24a37824a) 
