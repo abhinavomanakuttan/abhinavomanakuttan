@@ -29,6 +29,6 @@
 ---
 
 <h3 align="left">GitHub Activity Graph:</h3>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sebin Joseph's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavomanakuttan&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Abhinav Omanakuttan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" /></a>
 
 ---
