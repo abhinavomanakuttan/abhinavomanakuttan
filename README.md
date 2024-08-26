@@ -4,10 +4,7 @@
 - 📚 I’m currently learning Data Structures using C, Java, <br>
 - 📫 How to reach me **abhinavomanakuttan740@gmail.com**
 
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavomanakuttan&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavomanakuttan" /> </p>
-
 
 ## 🌐 Socials:
 
@@ -35,7 +32,3 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Abhinav Omanakuttan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavomanakuttan&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" /></a>
 
 ---
-
-
-
-
