@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavomanakuttan&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavomanakuttan" /> </p>
 
 
-<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 
 <p align="center">
@@ -26,9 +26,8 @@
 
 
 
-<hr>
 
-
+<br>
 
 ## 🌐 Socials:
 
@@ -90,10 +89,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhinavomanakuttan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavomanakuttan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <h3 align="left">GitHub Activity Graph:</h3>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Abhinav Omanakuttan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavomanakuttan&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" /></a>
 
----
+
 
