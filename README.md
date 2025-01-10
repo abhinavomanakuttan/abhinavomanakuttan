@@ -7,8 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinavomanakuttan&label=Profile%20views&color=0e75b6&style=flat" alt="abhinavomanakuttan" /> </p>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-
+---
 
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Abhinav+Omanakuttan;Data+Scientist" width="auto" height="35"/>
@@ -36,7 +35,8 @@
 <a href="https://instagram.com/https://www.instagram.com/_abhi_n_a_v__/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_abhi_n_a_v__/?hl=en" height="30" width="40" /></a>
 </p>
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+---
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -80,8 +80,8 @@
 
 <br/>  
 
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <br>
 
 # 📊 GitHub Stats:
@@ -89,7 +89,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhinavomanakuttan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavomanakuttan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+
+---
 
 <h3 align="left">GitHub Activity Graph:</h3>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Abhinav Omanakuttan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavomanakuttan&bg_color=1a1b27&color=be90f2&line=638fda&point=35aea1&area=true&hide_border=true" /></a>
