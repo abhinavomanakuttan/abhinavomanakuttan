@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 💻 I'm pursuing Computer Science and Engineering at St. Joseph's College of Engineering and Technology, Palai.<br>
+- 💻 I'm pursuing Artificial Intelligence and Data Science Engineering at St. Joseph's College of Engineering and Technology, Palai.<br>
 - 🤖 I'm passionate about programming, problem solving, microcontrollers, designing, and innovative project.<br>
 - 📚 I’m currently learning Data Structures using C,Python <br>
   
