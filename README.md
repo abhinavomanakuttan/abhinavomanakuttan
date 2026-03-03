@@ -10,7 +10,10 @@
 ---
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Abhinav+Omanakuttan;Data+Scientist" width="auto" height="35"/>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=32&duration=1500&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Abhinav+Omanakuttan;AI+%26+ML+Engineer;Data+Scientist" 
+    alt="Typing SVG" 
+  />
 </p>
 
 <p align="center">
